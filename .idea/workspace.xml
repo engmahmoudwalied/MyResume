@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3f0ca30-c4bc-443d-a358-e737d06a49e3" name="Changes" comment="init commit" />
+    <list default="true" id="d3f0ca30-c4bc-443d-a358-e737d06a49e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/apple-touch-icon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/mahmoud/Downloads/Mahmoud Walied/part1/MyResume/assets/img",
+    "last_opened_file_path": "/home/mahmoud/Downloads/Mahmoud Walied/part1/MyResume/assets/img/testimonials",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -35,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/testimonials" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="C:\Users\Mahmoud\Downloads\MyResume\MyResume" />
       <recent name="C:\Users\Mahmoud\Downloads\MyResume\MyResume\assets\img" />
@@ -59,15 +71,30 @@
       <workItem from="1663527442668" duration="583000" />
       <workItem from="1663528058501" duration="265000" />
       <workItem from="1663528398991" duration="3036000" />
+      <workItem from="1663538623450" duration="1483000" />
+      <workItem from="1663540491815" duration="1399000" />
+      <workItem from="1663802255701" duration="1497000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1663531980471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663531980471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
