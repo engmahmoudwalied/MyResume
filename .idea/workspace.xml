@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3f0ca30-c4bc-443d-a358-e737d06a49e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/testimonials/apple-touch-icon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/profile-img1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +67,7 @@
       <workItem from="1663528398991" duration="3036000" />
       <workItem from="1663538623450" duration="1483000" />
       <workItem from="1663540491815" duration="1399000" />
-      <workItem from="1663802255701" duration="1497000" />
+      <workItem from="1663802255701" duration="1913000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1663531980471</created>
@@ -82,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663531980471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change link facebook .....">
+      <created>1663803933600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663803933600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +96,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="change link facebook ....." />
+    <option name="LAST_COMMIT_MESSAGE" value="change link facebook ....." />
   </component>
 </project>
