@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3f0ca30-c4bc-443d-a358-e737d06a49e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d3f0ca30-c4bc-443d-a358-e737d06a49e3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <workItem from="1663528398991" duration="3036000" />
       <workItem from="1663538623450" duration="1483000" />
       <workItem from="1663540491815" duration="1399000" />
-      <workItem from="1663802255701" duration="1913000" />
+      <workItem from="1663802255701" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1663531980471</created>
@@ -83,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663803933600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change link facebook .....">
+      <created>1663804638127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663804638127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
